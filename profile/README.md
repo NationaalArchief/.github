@@ -5,7 +5,7 @@ Welkom bij de GitHub van het **Nationaal Archief**.
 Het Nationaal Archief is het [expertisecentrum](https://www.nationaalarchief.nl/archiveren/expertisecentrum) van duurzaam toegankelijke overheidsinformatie. Met onze **kennisproducten** helpen wij overheidsorganisaties bij het duurzaam toegankelijk maken van hun informatie. De kennisproducten van het Nationaal Archief vormen een gereedschapskist waarmee overheidsorganisaties (by design) informatieprocessen- en systemen duurzaam toegankelijk kunnen inrichten. De kennisproducten zijn in lijn met de Archiefwet en gerelateerde wetgeving zoals de Wet open overheid.
 
 ## Voor wie maakt het Nationaal Archief kennisproducten?
-De kennisproducten die het expertisecentrum van het Nationaal Archief ontwikkelt zijn bedoeld voor alle lagen van de Overheid.
+De kennisproducten die het expertisecentrum van het Nationaal Archief ontwikkelt zijn bedoeld voor alle lagen van de overheid.
 
 ## Wat voor soorten kennisproducten maakt het expertisecentrum van het Nationaal Archief?
 We bieden onze kennisproducten aan als handreiking of norm.
