@@ -62,7 +62,7 @@ Daarnaast zijn er een aantal ondersteunende niet-normerende modules die gelden a
 - **RDF-ontologie** - Beschrijving van het metagegevensschema in RDF.
  
 - **Mapping van TMLO/TMR naar MDTO** - Beschrijving hoe bestaande TMLO- en TMR-metagegevens vertaald worden naar MDTO-metagegevens.
-  https://nationaalarchief.github.io/MDTO-Mapping-TMLO-TMR/
+  https://nationaalarchief.github.io/MDTO-TMLO-TMR/
 
 Ten slotte zijn er, ter informatie, een aantal niet-normerende bijlages:
 
