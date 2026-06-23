@@ -60,6 +60,7 @@ Daarnaast zijn er een aantal ondersteunende niet-normerende modules die gelden a
   https://nationaalarchief.github.io/MDTO-SIP-aanleverproces/
 
 - **RDF-ontologie** - Beschrijving van het metagegevensschema in RDF.
+  https://nationaalarchief.github.io/MDTO-RDF/
  
 - **Mapping van TMLO/TMR naar MDTO** - Beschrijving hoe bestaande TMLO- en TMR-metagegevens vertaald worden naar MDTO-metagegevens.
   https://nationaalarchief.github.io/MDTO-TMLO-TMR/
@@ -67,8 +68,10 @@ Daarnaast zijn er een aantal ondersteunende niet-normerende modules die gelden a
 Ten slotte zijn er, ter informatie, een aantal niet-normerende bijlages:
 
 - **Stappenplan** - Een stapsgewijze aanpak voor het toepassen van  Metagegevens Duurzaam Toegankelijke Overheidsinformatie (MDTO) in de informatiesystemen van een organisatie.
+  https://nationaalarchief.github.io/MDTO-Stappenplan/
 
-- **Overzicht belangrijke wijzingen** - Een overzicht van de belangrijke wijzigingen van MDTO ten opzichte van TMLO en TMR. 
+- **Overzicht belangrijke wijzingen** - Een overzicht van de belangrijke wijzigingen van MDTO ten opzichte van TMLO en TMR.
+  https://nationaalarchief.github.io/MDTO-TMLO-TMR/
 
 - **Antwoorden op veelgestelde vragen** - Een overzicht van vragen en antwoorden die met betrekking tot MDTO gesteld zijn. Zoals hoe MDTO tot stand is gekomen en de onderbouwing van gemaakte keuzes. Deze bijlage wordt uitgebreid als nieuwe vragen daar aanleiding tot geven.
   https://nationaalarchief.github.io/MDTO-Veelgestelde-vragen/
